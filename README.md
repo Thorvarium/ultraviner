@@ -10,3 +10,30 @@ To report a bug, create an issue here: https://github.com/Thorvarium/ultraviner/
 
 ### Feature Requests & Ideas
 To start a discussion for a new feature request & ideas or to search if someone is already talking about it, check out on the discussions forum: https://github.com/Thorvarium/ultraviner/discussions
+
+### About
+https://vine-wiki.com/en/extension/ultraviner
+
+### Installation Instructions
+https://vine-wiki.com/en/extension/ultraviner/installation
+
+### Pricing
+https://www.patreon.com/ultraviner/
+
+### Terms and Conditions
+https://ultraviner.com/terms.html
+
+### Wiki
+https://vine-wiki.com/en/extension/ultraviner
+
+### Discord
+https://www.discord.gg/amazonvine
+
+### Reddit
+https://www.reddit.com/r/ultraviner/
+
+### Patreon
+https://www.patreon.com/ultraviner/
+
+### Contact
+contact@ultraviner.com
