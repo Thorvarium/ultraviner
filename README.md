@@ -1,7 +1,9 @@
 # Ultraviner
 ## Vine Productivity Tool
 
-Ultraviner (UV) is the official browser extension from the Amazon Vine discord group. It improves Vine usability and also interoperability between our Discord and Vine. It works on all platforms, including PC/macOS/Android/iPhone/iPad.
+Ultraviner
+Vine Productivity Tool
+Ultraviner (UV) is a browser extension that improves Vine usability with a variety of quality of life features and also interoperability between our Discord and Vine. It works on all platforms, including PC/macOS/Android/iPhone/iPad.
 
 This github repository is being used for bug reports and for discussions about ideas and future features.
 
